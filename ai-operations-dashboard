@@ -1,0 +1,14 @@
+# AI Operations Dashboard
+
+AI-powered dashboard integrating POS, booking, and accounting data for real-time business performance monitoring.
+
+## Features
+- Tracks revenue, covers, spend per head, labour %
+- Trend analysis and exception alerts
+- Easy-to-use interface for managers
+
+## Tech Stack
+Python | Streamlit | REST APIs | Airtable/PostgreSQL
+
+## Use Case
+Managers get actionable insights daily to optimize operations and labour costs.
