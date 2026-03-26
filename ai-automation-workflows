@@ -1,0 +1,15 @@
+# AI Automation Workflows
+
+Automates business workflows using AI and APIs, generating daily reports and alerts for managers.
+
+## Features
+- Workflow automation with n8n
+- AI-generated summaries
+- Alerts for exceptions (e.g., slow bookings, negative reviews)
+- Integrates Slack, Google Sheets, APIs
+
+## Tech Stack
+n8n | Python | OpenAI API | REST APIs | Slack API
+
+## Use Case
+Reduces manual reporting work and ensures managers receive timely insights for decisions.
