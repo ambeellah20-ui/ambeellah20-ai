@@ -1,0 +1,14 @@
+# AI Review Analyzer
+
+Automates collection and AI analysis of customer reviews, summarizing feedback and sending alerts for negative trends.
+
+## Features
+- Collects reviews via APIs
+- Summarizes sentiment using AI
+- Sends alerts via Slack or Email
+
+## Tech Stack
+Python | OpenAI API | REST APIs | Slack API
+
+## Use Case
+Businesses can monitor feedback daily, improve service quality, and identify issues fast.
